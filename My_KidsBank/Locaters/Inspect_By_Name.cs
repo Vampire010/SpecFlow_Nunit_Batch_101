@@ -1,4 +1,7 @@
 ﻿using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+
 namespace My_KidsBank.Locaters
 {
     public class Inspect_By_Name
